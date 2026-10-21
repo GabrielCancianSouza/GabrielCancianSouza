@@ -15,6 +15,9 @@
 <h2 align="center">◢ SOBRE MIM ◣</h2>
 
 <div align="center">
+<table>
+<tr>
+<td align="left">
 
 ```text
 > nome      : Gabriel Cancian Souza
@@ -24,6 +27,9 @@
 > status    : aprendendo e construindo
 ```
 
+</td>
+</tr>
+</table>
 </div>
 
 Gosto de entender como as coisas funcionam por trás da tela: regras de negócio, dados e lógica. Já domino o básico e estou evoluindo com projetos práticos.
@@ -142,6 +148,6 @@ $ _
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=0,2,12,24&section=footer&reversal=true" alt="Footer" width="100%"/>
 
-<sub>◢ Gabriel Cancian Souza · feito com ☕ e código ◣</sub>
+<sub>◢ Gabriel Cancian Souza · feito com código ◣</sub>
 
 </div>
