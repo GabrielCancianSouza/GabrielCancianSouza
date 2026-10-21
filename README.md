@@ -17,11 +17,11 @@
 <div align="center">
 
 ```text
-> nome : Gabriel Cancian Souza
-> foco : Back-End e Banco de Dados
+> nome      : Gabriel Cancian Souza
+> foco      : Back-End e Banco de Dados
 > linguagem : Java
 > estudando : JavaScript, HTML, CSS e SQL
-> status : aprendendo e construindo
+> status    : aprendendo e construindo
 ```
 
 </div>
