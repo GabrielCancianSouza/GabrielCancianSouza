@@ -38,7 +38,7 @@
 ┌──────────────────────────────────────────────────────────┐
 │  USER.PROFILE                                            │
 ├──────────────────────────────────────────────────────────┤
-│  > nome         : SEU NOME                               │
+│  > nome         : Gabriel Cancian Souza                  │
 │  > local        : Salvador, BA 🇧🇷                       │
 │  > foco         : Back-End & Banco de Dados              │
 │  > linguagem    : Java ☕ (a que mais domino)            │
