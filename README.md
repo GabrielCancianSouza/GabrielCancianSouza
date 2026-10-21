@@ -20,11 +20,11 @@
 <td align="left">
 
 ```text
-> nome      : Gabriel Cancian Souza
-> foco      : Back-End e Banco de Dados
-> linguagem : Java
-> estudando : JavaScript, HTML, CSS e SQL
-> status    : aprendendo e construindo
+> nome      : Gabriel Cancian Souza      
+> foco      : Back-End e Banco de Dados      
+> linguagem : Java      
+> estudando : JavaScript, HTML, CSS e SQL      
+> status    : aprendendo e construindo      
 ```
 
 </td>
