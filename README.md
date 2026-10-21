@@ -14,7 +14,7 @@
 
 <h2 align="center">◢ SOBRE MIM ◣</h2>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td align="left">
