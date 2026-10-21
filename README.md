@@ -142,6 +142,6 @@ $ _
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=0,2,12,24&section=footer&reversal=true" alt="Footer" width="100%"/>
 
-<sub>◢ Gabriel Cancian Souza · feito com ☕ e código ◣</sub>
+<sub>◢ Gabriel Cancian Souza · feito com código ◣</sub>
 
 </div>
