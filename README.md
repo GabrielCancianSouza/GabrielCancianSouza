@@ -14,10 +14,10 @@
 
 <h2 align="center">◢ SOBRE MIM ◣</h2>
 
-<div align="left">
+<div align="center">
 <table>
 <tr>
-<td align="center">
+<td align="left">
 
 ```text
 > nome      : Gabriel Cancian Souza
