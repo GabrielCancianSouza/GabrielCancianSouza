@@ -20,8 +20,7 @@
 > nome        : Gabriel Cancian Souza
 > foco        : Back-End e Banco de Dados
 > linguagem        : Java
-> estudando        : JavaScript, HTML, CSS e SQL
-> status        : aprendendo e construindo
+> estudando        : JavaScript, HTML, CSS e SQL> status        : aprendendo e construindo
 ```
 
 </div>
