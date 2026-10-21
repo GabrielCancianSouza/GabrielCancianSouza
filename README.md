@@ -17,7 +17,7 @@
 <div align="left">
 <table>
 <tr>
-<td align="left">
+<td align="center">
 
 ```text
 > nome      : Gabriel Cancian Souza
